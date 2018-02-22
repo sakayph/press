@@ -11,6 +11,10 @@ This is a non-comprehensive list of press features in news articles, magazines, 
   - [ABS-CBN News Article](http://news.abs-cbn.com/news/02/22/18/alamin-app-na-tutulong-sa-commuters-maghanap-ng-alternatibong-ruta), 22 Feb 2018.
   - [DZMM TeleRadyo Feature](https://twitter.com/DZMMTeleRadyo/status/966643298956922880), 22 Feb 2018
 
+- **Uber Partners with PH Startup in First-Of-Its-Kind Venture**
+  - “Tie-up with Sakay.ph aims to extend ride sharing services to more Filipino commuters”
+  - [Entrepreneur Philippines](https://www.entrepreneur.com.ph/news-and-events/uber-partners-with-ph-startup-in-first-of-a-kind-venture-a00178-20170419), 19 Apr 2017
+
 - **Sakay.ph's new app shows MRT congestion levels**
   - _“Traincheck gives commuters info on how crowded the train stations are and tells them when's the best time to leave.”_
   - [Rappler News Article](https://www.rappler.com/nation/153775-sakayph-traincheck-mrt-application), 27 Nov 2016
@@ -26,10 +30,11 @@ This is a non-comprehensive list of press features in news articles, magazines, 
   
 - **Redesign of Metro Manila bus stops, signages proposed to ease travel**
   - _A TEAM working for a traffic navigation application has explored a project on a redesign of bus stops and signages in Metro Manila to ease the “messy and multifaceted problem of commuting” in the bustling metropolis._
-  - [Philippine Daily Inquirer Article](http://newsinfo.inquirer.net/781599/redesign-of-metro-manila-bus-stops-signages-proposed-to-ease-travel), 25 April 2016
+  - [Philippine Daily Inquirer Article](http://newsinfo.inquirer.net/781599/redesign-of-metro-manila-bus-stops-signages-proposed-to-ease-travel), 25 Apr 2016
 
 - **Pinakasulit na daan patungo sa destinasyon sa Metro Manila, malalaman sa 'sakay.ph'**
   - [GMA News TV Broadcast Feature](http://www.gmanetwork.com/news/video/qrt/272385/pinakasulit-na-daan-patungo-sa-destinasyon-sa-metro-manila-malalaman-sa-sakayph/video/), 11 Mar 2015
+  - [State of the Nation, GMA News TV](http://www.gmanetwork.com/news/video/stateofthenation/271937/mobile-app-na-sakay-ph-layong-padaliin-ang-pag-commute-sa-metro-manila/video/), 10 Mar 2015
 
 - **Sakay.ph: Making Metro Manila navigable**
   - _“Imagine your smartphone telling you the best way to get to your destination around Metro Manila's urban jungle… the team behind the award-winning web service Sakay.ph aims to one day build the platform that would make navigating Metro Manila’s convoluted transport systems much easier.”_
@@ -50,3 +55,7 @@ This is a non-comprehensive list of press features in news articles, magazines, 
 * * *
   
 [@sakayph](https://twitter.com/sakayph) • [Facebook](https://facebook.com/sakaydotph) • [Blog](https://blog.sakay.ph)
+
+email: `contact at sakay dot ph`
+
+<sub>list maintained by [phi](https://github.com/ahelpingchip)</sub>
