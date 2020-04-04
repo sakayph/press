@@ -6,6 +6,22 @@ This is a non-comprehensive list of press features in news articles, magazines, 
 
 ### Entries
 
+- **DZMM TeleRadyo: COVID-19 Coverage**
+  - [Facebook stream](https://www.facebook.com/dzmmteleradyo/videos/217264512941905/), 4 April 2020.
+  - [YouTube stream](https://www.youtube.com/watch?v=BdbbCGLua64), 4 April 2020.
+  
+- **Sakay Halfway Valentine's Day Coverage**
+  - _"This Mobile App Lets You Meet Your S.O. Halfway, Literally"_
+  - [Spot.ph Article](https://www.spot.ph/newsfeatures/the-latest-news-features/80930/mobile-app-sakay-ph-halfway-a833-20200211), 11 Feb 2020.
+  - _"The North-South love affair is the stuff of long-distance fairytales. Until this app came along."_
+  - [Esquire Magazine](https://www.esquiremag.ph/life/sex-and-relationships/sakay-halfway-a00304-20200213), 13 Feb 2020.
+  - _"Campaign Spotlight: Sakay.ph and MullenLowe Philippines Overcome One of Metro Manila’s Greatest Barriers To Love – Traffic"_
+  - [Adobo Magazine Article](https://www.adobomagazine.com/campaign-spotlight/campaign-spotlight-sakay-ph-and-mullenlowe-philippines-overcome-one-of-metro-manilas-greatest-barriers-to-love-traffic/), 14 Feb 2020.
+
+  
+- **HK accelerator Betatron injects funds into fifth cohort of 8 startups**
+  - [Tech in Asia](https://www.techinasia.com/betatron-invests-fifth-cohort), 3 Oct 2019.
+
 - **The Travel Show, BBC**
   - [BBC Episode Listing](https://www.bbc.co.uk/programmes/n3ct4dwn), 11 May 2018.
   - [Tweet](https://twitter.com/BBCTravelShow/status/995021260940808202)
