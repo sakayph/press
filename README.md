@@ -6,6 +6,9 @@ This is a non-comprehensive list of press features in news articles, magazines, 
 
 ### Entries
 
+- **Sakay.ph now has GPS tracking for some public transport in Pasig**
+  - [Rappler article](https://www.rappler.com/technology/news/261295-sakay-ph-now-has-gps-tracking-for-some-public-transport-pasig-city), 18 May 2020
+
 - **DZMM TeleRadyo: COVID-19 Coverage**
   - [Facebook stream](https://www.facebook.com/dzmmteleradyo/videos/217264512941905/), 4 April 2020.
   - [YouTube stream](https://www.youtube.com/watch?v=BdbbCGLua64), 4 April 2020.
